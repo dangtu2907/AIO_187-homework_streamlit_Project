@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Streamlit Applications
 
 Đây là một repository chứa ba ứng dụng Streamlit khác nhau: Ứng dụng nhận diện đối tượng từ hình ảnh, Ứng dụng chỉnh sửa từ sai dựa trên khoảng cách Levenshtein, và Ứng dụng ChatBot đơn giản.
@@ -105,4 +106,6 @@ Repository này chứa ba ứng dụng Streamlit khác nhau:
 
     - Nhập tài khoản Hugging Face của bạn ở phần "Login HugChat" bên sidebar.
     - Nhập câu hỏi hoặc lời nhắn vào ô chat để nhận phản hồi từ chatbot.
+=======
+>>>>>>> cbe708f38086d5b19aa15a97f58b1b6b584361ca
 
