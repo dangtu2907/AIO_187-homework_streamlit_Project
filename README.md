@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Streamlit Applications
 
 Đây là một repository chứa ba ứng dụng Streamlit khác nhau: Ứng dụng nhận diện đối tượng từ hình ảnh, Ứng dụng chỉnh sửa từ sai dựa trên khoảng cách Levenshtein, và Ứng dụng ChatBot đơn giản.
