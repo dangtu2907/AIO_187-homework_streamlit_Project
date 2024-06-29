@@ -10,9 +10,6 @@
 - [Ứng dụng nhận diện đối tượng](#ứng-dụng-nhận-diện-đối-tượng)
 - [Ứng dụng chỉnh sửa từ sai](#ứng-dụng-chỉnh-sửa-từ-sai)
 - [Ứng dụng ChatBot](#ứng-dụng-chatbot)
-- [Cấu trúc dự án](#cấu-trúc-dự-án)
-- [Đóng góp](#đóng-góp)
-- [Giấy phép](#giấy-phép)
 
 ## Giới thiệu
 
@@ -109,17 +106,3 @@ Repository này chứa ba ứng dụng Streamlit khác nhau:
     - Nhập tài khoản Hugging Face của bạn ở phần "Login HugChat" bên sidebar.
     - Nhập câu hỏi hoặc lời nhắn vào ô chat để nhận phản hồi từ chatbot.
 
-## Cấu trúc dự án
-
-```plaintext
-.
-├── model
-│   ├── MobileNetSSD_deploy.caffemodel
-│   └── MobileNetSSD_deploy.prototxt.txt
-├── data
-│   └── vocab.txt
-├── object_detection_app.py
-├── word_correction_app.py
-├── chatbot_app.py
-├── requirements.txt
-└── README.md
